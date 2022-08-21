@@ -4,7 +4,8 @@ Based on React JS technology using functional components and hooks (useState, us
 
 https://eugene015.github.io/portfolio-react/
 
-![portfolio](https://user-images.githubusercontent.com/101366301/185765436-b71d2b37-ede7-4025-9eed-c088628f6ea1.gif)
+![portfolio](https://user-images.githubusercontent.com/101366301/185798044-ad3f1745-1df3-40fe-9bd8-982646baadff.gif)
+
 
 
 
